@@ -99,3 +99,13 @@ To run the rust tests, run `cargo test` in the `faimg_rs` directory.
 The model cannot out of the box take a folder as input and learn every pictures in it.
 
 Though the split is pretty fast, the feature calculations can be a little slow in its current state.
+
+## Authors
+Samuel JOSSE
+Tanguy LAMBERT
+Firas FARES
+Gwenn MALIVET
+
+## Tutors
+Charlotte PELLETIER
+Audrey POTTERIE
